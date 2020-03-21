@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohreediec.exclamation.foundation/sitemap.xml
